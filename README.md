@@ -58,9 +58,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parbindar7&show_icons=true&theme=radical" alt="Parbindar's GitHub stats" />
-</p>
