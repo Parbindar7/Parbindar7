@@ -1,11 +1,7 @@
-<p align="center">
-(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://t.me/PARBINDAR7)
-</p>
+[![PARBINDAR7](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://t.me/PARBINDAR7)
 
 <h1 align="center">Hi there 👋, I'm Parbindar</h1>
 <h3 align="center">AOSP-based Custom ROM Developer</h3>
-
-<p align="center"><em>I will soon start publishing ROMs — stay tuned for professional, high-quality releases!<br>Currently working on bug fixes to make them even better.</em></p>
 
 <p align="center">
   <a href="https://discord.com/users/parbindar7" target="_blank">
