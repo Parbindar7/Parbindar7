@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ealphabits.com/wp-content/uploads/2022/12/what-is-aosp.jpg" alt="AOSP Banner" width="600" />
+(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://t.me/PARBINDAR7)
 </p>
 
 <h1 align="center">Hi there 👋, I'm Parbindar</h1>
@@ -28,6 +28,12 @@
   - Samsung Galaxy A14x
   - Samsung Galaxy M14x
   - Samsung Galaxy F14x
+  - Samsung Galaxy A51
+  - Samsung Galaxy F41
+  - Samsung Galaxy M21
+  - Samsung Galaxy M31
+  - Samsung Galaxy M31
+
 - 🐧 I use **Linux** as my development environment.
 - 📬 Reach me at **Parbindarsingh@outlook.com**
 
